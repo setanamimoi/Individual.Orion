@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orion.Core", "Orion.Core\Orion.Core.csproj", "{DBAA6422-92A4-43D7-82F5-F1FE15E4D136}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Orion.Core", "Tests.Orion.Core\Tests.Orion.Core.csproj", "{7D030BB9-F123-47F2-8BD9-AB2EB2EDA69C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{DBAA6422-92A4-43D7-82F5-F1FE15E4D136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBAA6422-92A4-43D7-82F5-F1FE15E4D136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBAA6422-92A4-43D7-82F5-F1FE15E4D136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D030BB9-F123-47F2-8BD9-AB2EB2EDA69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D030BB9-F123-47F2-8BD9-AB2EB2EDA69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D030BB9-F123-47F2-8BD9-AB2EB2EDA69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D030BB9-F123-47F2-8BD9-AB2EB2EDA69C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
